@@ -1,20 +1,20 @@
-# 📊 Sales Performance Dashboard
+# 📊 Superstore Sales Dashboard – Power BI
 
 ![Dashboard Screenshot](Assets/Superstore_Dashboard.png)
 
-> A Power BI project visualizing sales performance vs. budget with conditional formatting, YoY growth, and KPIs across products, customers, and sales representatives.
+> An interactive and insightful Power BI dashboard built using the Superstore dataset to explore sales, profit, customer behavior, and regional performance. This dashboard highlights key KPIs, trends, and customer segmentation for data-driven decision-making.
 
 ---
 
 ## 🔍 Overview
 
-This dashboard helps track and analyze:
-- Actual vs. Budgeted Sales (Value)
-- Surplus/Deficit and Performance %
-- Year-on-Year (YoY) Growth for Products and Customers
-- Conditional formatting to flag under/over-performance
-
-Built with **Power BI**, using data cleaning, DAX measures, and custom visuals.
+- **KPI Cards**: Total Sales, Profit, Units Sold, and First Customer ID
+- **Segment Analysis**: Consumer, Corporate, and Home Office breakdowns
+- **Profit & Sales by Region**: Visual comparison across Central, East, West, and South
+- **Market Share Trends**: Year-over-year segment performance
+- **Top Customers**: Identify key revenue contributors
+- **Monthly Trends**: Seasonal sales analysis by segment
+- **Dynamic Filters**: Slice data by region and segment
 
 ---
 
@@ -39,11 +39,9 @@ Built with **Power BI**, using data cleaning, DAX measures, and custom visuals.
 
 ## 🛠 Tools & Skills Used
 
-- Power BI
-- DAX (Data Analysis Expressions)
-- Data Modeling
-- Data Cleaning & Transformation
-- Visualization & Storytelling
+- Microsoft Power BI Desktop  
+- DAX for calculations and KPIs  
+- Standard Superstore Dataset  
 
 ---
 
@@ -55,5 +53,6 @@ _Data Analyst_
 🌐 [LinkedIn](https://www.linkedin.com/in/namrata-pareek-3415b521b/)
 
 ---
-
+> 📊 Empowering data-driven decisions with clean, insightful visuals built in Power BI.
+> 
 ⭐ _If you like this project, feel free to star this repo or connect with me!_
